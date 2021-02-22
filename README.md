@@ -18,11 +18,11 @@
   
      \```
 
-```python
+  ```python
   class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         lo, hi = 0, len(nums) - 1
-```
+    ```
 
 - 下方使用\`包住單一程式碼
 `print()`
